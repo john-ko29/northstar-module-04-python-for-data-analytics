@@ -1,0 +1,1 @@
+The one that surprised me the most was DuckDB, because it lets you write SQL queries directly inside Python. The one I most want to practice is Polars. Its syntax is the one I'm least familiar with, so it will take me more time to get comfortable with it.

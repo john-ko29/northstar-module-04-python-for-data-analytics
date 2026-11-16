@@ -1,0 +1,1 @@
+Out of the FinFlow story was the box plot, Because I can quickly gleam the necessary information right away. With Enterprise, having huge sway because of the small sample size. The one I want to remember is Hiroshi's rule 2: "Use color to encode one and only one dimension".  

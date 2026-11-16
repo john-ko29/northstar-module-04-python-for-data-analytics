@@ -1,0 +1,1 @@
+AI pattern I would lean on most is probably debugging. I can save the most time finding the cause of error with AI rather than trying to figure out every possible solutions to an error. Failure mode 3: Wrong-by-default is the one to watch out for the most. Since there is no errors, it is much harder to catch when it happens

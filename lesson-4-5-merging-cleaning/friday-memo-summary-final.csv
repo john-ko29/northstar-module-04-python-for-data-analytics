@@ -1,0 +1,4 @@
+marketing_name,target_segment,customer_count,total_mrr,churn_rate_pct,avg_sessions_active,avg_session_churned,mrr_pct_of_total
+Enterprise Plus,Enterprise,19890,3171264.0,19.9,210.15,25.58,56.9
+Professional,SMB,60229,1443388.71,20.1,210.41,25.51,25.9
+Starter Plan,Individual,119881,958880.16,19.9,209.48,25.51,17.2
