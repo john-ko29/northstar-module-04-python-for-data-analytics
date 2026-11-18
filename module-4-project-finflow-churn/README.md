@@ -24,3 +24,7 @@ README.md
 ## The headline findings
 
 Support tickets has correlation with people who churns, not plan tier or signup date . Every customer who opened five or more tickets has churned, the group represent 44% of all lost customers (All 17.707 customers). Churn rate is flat at about 20% for every plan tier and every signup month. Enterprise Plus is 10% of customers but 57% of lost monthly plan fees ($787K of $1.39M). This data comes from a synthetic dataset. 
+
+## AI Disclosure
+
+AI was used during this engagement. Full details live in the AI Use Note section of finflow_product_memo.md.
